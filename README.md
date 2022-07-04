@@ -5,3 +5,4 @@ check_update
 
 git update online
 git update vscode
+git update online2
